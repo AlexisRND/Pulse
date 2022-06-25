@@ -292,7 +292,9 @@
             }
         }
         &__flex {
-            width: 260px;
+            display: block;
+            text-align: center;
+            width: 428px;
         }
         &__title {
             margin-top: 20px;
